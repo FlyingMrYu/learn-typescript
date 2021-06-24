@@ -182,5 +182,5 @@ enum Color {
 // let a = new Animal();
 // Animal.isAnimal(a); // true
 
-// let a: any;
-// console.log(a);
+let a: any;
+console.log(a);
